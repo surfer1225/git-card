@@ -9,6 +9,7 @@ class Form extends React.Component {
         event.preventDefault();
         const resp = await Axios.get(`https://api.github.com/users/${this.state.username}`);
         this.props.onSubmit(resp.data);
+        this.setState({username: ""})
     };
 
     render() {
