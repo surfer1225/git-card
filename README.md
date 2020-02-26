@@ -1,5 +1,6 @@
 ## React
 - __library__ and __user experiences__
+- this project is a simple illustration using normal github apis
 
 ### when designining react applications:
 
