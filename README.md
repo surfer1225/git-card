@@ -19,3 +19,4 @@
 - error handling
 - check jscomplete.com/react-beyond-basics
 - not relying on 3rd-party library, an agent module should be used to connect to 3rd-party library
+- jscomplete.com/reactful to explain the local setup
